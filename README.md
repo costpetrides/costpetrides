@@ -7,3 +7,15 @@ My name is Petrides Constantinos. I am a Physics Studend at National and Kapodis
 
 ___
 
+
+
+<br />
+
+![costpetrides Stats](https://github-readme-stats.vercel.app/api?username=costpetrides&show_icons=true&theme=dracula)
+
+<!-- <details>
+    <summary>
+        <h3>💻 Alex Tsagkas Coding Journey</h3>
+    </summary>
+
+</details> -->
