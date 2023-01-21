@@ -19,3 +19,5 @@ ___
     </summary>
 
 </details> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?costpetrides=anuraghazra&layout=compact)](https://github.com/costpetrides/github-readme-stats)
