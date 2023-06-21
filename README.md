@@ -8,7 +8,6 @@ ___
 
 <br />
 
-![costpetrides Stats](https://github-readme-stats.vercel.app/api?username=costpetrides&show_icons=true&theme=dark)
 
 <!-- <details>
     <summary>
