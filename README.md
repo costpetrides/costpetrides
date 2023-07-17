@@ -1,7 +1,7 @@
 <h1>I'm Constantinos Petrides</h1>
 
 
-I'm a Physics student at University of Athens (NKUA). I'm currently working on [The impact of Covid-19 lockdown in Urban air pollution](https://github.com/costpetrides/Air-pollution-COVID-19-impact). You can reach me at **costpetrides@icloud.com**
+My name is Petrides Constantinos. I am a Physics Studend at National and Kapodistrian University of Athens. I have also founded SbH (Stories by Heroes) movement, that aims to break stigmas surrounding disabled people and give disabled people a platform to speak about their disabilities, everyday life and the difficulties they face. I'm currently working on [The impact of Covid-19 lockdown in Urban air pollution](https://github.com/costpetrides/Air-pollution-COVID-19-impact)
 
 
 
