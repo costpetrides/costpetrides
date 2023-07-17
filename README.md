@@ -1,5 +1,5 @@
- I'm Constantinos Petrides</h1>
-<h3 align="center">I am a physics student at University of Athens (NKUA).</h3>
+<h1>I'm Constantinos Petrides</h1>
+
 
 I'm a Physics student at University of Athens (NKUA). I'm currently working on [The impact of Covid-19 lockdown in Urban air pollution](https://github.com/costpetrides/Air-pollution-COVID-19-impact). You can reach me at **costpetrides@icloud.com**
 
