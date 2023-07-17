@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Constantinos Petrides</h1>
+ I'm Constantinos Petrides</h1>
 <h3 align="center">I am a physics student at University of Athens (NKUA).</h3>
 
-- 🔭 I’m currently working on [The impact of Covid-19 lockdown in Urban air pollution](https://github.com/costpetrides/Air-pollution-COVID-19-impact)
+I'm a Physics student at University of Athens (NKUA). I'm currently working on [The impact of Covid-19 lockdown in Urban air pollution](https://github.com/costpetrides/Air-pollution-COVID-19-impact). You can reach me at **costpetrides@icloud.com**
 
-- 👨‍💻 All of my projects are available at [https://costpetrides.github.io](https://costpetrides.github.io)
 
-- 📫 How to reach me **costpetrides@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
