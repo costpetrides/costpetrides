@@ -2,7 +2,7 @@
 
 
 My name is Petrides Constantinos. I am a Physics Studend at National and Kapodistrian University of Athens. I have also founded SbH (Stories by Heroes) movement, that aims to break stigmas surrounding disabled people and give disabled people a platform to speak about their disabilities, everyday life and the difficulties they face. 
-1. [Classification of Brain Tumors from MRI Images Using a Convolutional Neural Network]()
+1. [Classification of Brain Tumors from MRI Images Using a Convolutional Neural Network](https://github.com/costpetrides/Brain-Tumor-Classification)
 2. [Machine Learning for Gamma-Ray and Hadron Shower Discrimination in Cherenkov Telescopes](https://github.com/costpetrides/Gamma_Ray-Hadron-Shower-Discrimination)
 3. [The impact of Covid-19 lockdown in Urban air pollution - Case of Athens](https://github.com/costpetrides/Air-pollution-COVID-19-impact)  
 
